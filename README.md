@@ -89,3 +89,5 @@
 * `print("Global Model:", Evaluate(W_g, \text{DataLoader}(D_{test}, B)))$`
 * `for` $k \in \mathcal{K}$ `do`:
     * `print("Client $k$:", Evaluate(H[k], \text{DataLoader}(D_{test}, B)))$`
+
+![My Results](Results.jpeg)
