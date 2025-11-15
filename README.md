@@ -90,4 +90,4 @@
 * `for` $k \in \mathcal{K}$ `do`:
     * `print("Client $k$:", Evaluate(H[k], \text{DataLoader}(D_{test}, B)))$`
 
-![My Results](Results.jpeg)
+![My Results]([https://raw.githubusercontent.com/EnvyThunder/Your-Repo-Name/main/Results.jpeg](https://github.com/EnvyThunder/Quasi-Sequential-Ranking-Based-Federated-Learning-Approach/blob/main/Results.jpeg))  
