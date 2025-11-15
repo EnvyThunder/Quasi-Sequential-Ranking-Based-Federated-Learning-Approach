@@ -88,5 +88,6 @@
 * `print("--- Final Test Results ---")`
 * `print("Global Model:", Evaluate(W_g, \text{DataLoader}(D_{test}, B)))$`
 * `for` $k \in \mathcal{K}$ `do`:
-    * `print("Client $k$:", Evaluate(H[k], \text{DataLoader}(D_{test}, B)))$`
+    * `print("Client $k$:", Evaluate(H[k], ![Results](https://github.com/user-attachments/assets/e97d0559-0a61-4fe7-8d77-5aaf20db3d78)
+\text{DataLoader}(D_{test}, B)))$`
 
